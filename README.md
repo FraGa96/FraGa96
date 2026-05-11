@@ -36,3 +36,4 @@ If you're looking to collaborate or have an opportunity in mind, I'd love to con
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-003B57?style=for-the-badge&logo=opensearch&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
